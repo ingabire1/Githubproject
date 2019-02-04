@@ -1,10 +1,26 @@
-# Githubproject
+# Github clone
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
+#### This is a Github clone website ,Current version:5th february 2019
+
+#### By **INGABIRE AIMEE SYLVIE**
+
+## Description
+
+This is an app where a user can fill a form with a Github username and see names and descriptions of that person's public repositories.Also a person can look for repositories
+
+## Setup/Installation Requirements
+
+## To access this webpage:
+
+- Connect to the internet
+- Open your browser
+- In your browser adress bar type the following
+- http//:ingabire1.github.io/Github
+- And there you have it
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:2000/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
@@ -25,3 +41,34 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Support and contact details
+
+Having troubles?<br>
+Email:ingabire.sylvie@gmail.com<br>
+Slack:ingabire aimee sylvie
+
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/)<br>
+Copyright (c) 2019 **Ingabire Aimme Sylvie** <br>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.

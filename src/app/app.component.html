@@ -1,6 +1,10 @@
 <!--The content below is only a placeholder and can be replaced.-->
+<ul class="nav navbar-nav navbar-right" id="router">
+  <li><a routerLink="/users" routerLinkActive="active">HOME</a></li>
+  <li><a routerLink="/about" routerLinkActive="active">About</a></li>
+</ul>
 <div style="text-align:center">
-  <h1>{{ title }}!</h1>
+  <h1>Github Project!</h1>
   <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" />
 </div>
 <!-- <h2>Here are some links to help you start:</h2>
@@ -29,4 +33,7 @@
 </ul>  -->
 
 <router-outlet></router-outlet>
-<app-goal-form></app-goal-form>
+<app-user></app-user>
+
+<!-- <router-outlet></router-outlet>
+<app-goal-form></app-goal-form> -->
